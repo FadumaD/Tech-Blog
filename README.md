@@ -23,3 +23,6 @@ Working with Heroku for live deployment of a non-static page Learning about and 
 Deployed in heroku https://tech-blog-14-mvc.herokuapp.com
 
 Git hub link https://github.com/FadumaD/Tech-Blog
+
+<img width="1394" alt="Screenshot 2023-05-09 at 14 19 56" src="https://github.com/FadumaD/Tech-Blog/assets/117111465/082b4d59-db0b-4f5f-afab-f6ace7dc89f2">
+
